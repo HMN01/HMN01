@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @HMN01
 - 👀 I’m interested in ai
 - 🌱 I’m currently learning python
+- Will be consistent & persistent
